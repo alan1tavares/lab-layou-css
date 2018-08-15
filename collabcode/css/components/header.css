@@ -1,7 +1,11 @@
 .header{
+    background-color: #ffffff;
+    box-sizing: border-box;
+    width: 100vw;
     padding: 15px 10px 12px 10px; 
     text-align: center;
     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.4);
+    position: fixed;
 }
 
 .logo {

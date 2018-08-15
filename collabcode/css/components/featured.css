@@ -1,0 +1,21 @@
+.featured {
+    background-image: url(../../img/destaque-background.png);
+    background-size: 100%;
+    box-sizing: border-box;
+    height: 100vh;
+    padding-top: 364px;
+}
+
+.title{
+    background-color: rgba(255, 255, 255, 0.95);
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 12px;
+    width: 270px;
+    margin-left: auto;
+}
+
+.important{
+    display: block;
+    font-size: 28px;
+}
